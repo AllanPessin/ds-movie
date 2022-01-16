@@ -1,4 +1,4 @@
-package com.allan.dsmovie;
+package com.allan.dsmovie.config;
 
 import java.util.Arrays;
 
